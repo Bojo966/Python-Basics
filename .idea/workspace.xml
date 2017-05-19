@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a062d7d4-4091-4bc6-843d-7383dee9553e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/complex-conditions/AnimalType.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/complex-conditions/Cinema.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/complex-conditions/DayOfWeek.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/complex-conditions/DotInFigure.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/complex-conditions/Friends.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/complex-conditions/FruitAndVegetable.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/complex-conditions/FruitStore.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/complex-conditions/GreetingFromAgeAndGender.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/complex-conditions/InvalidNumber.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/complex-conditions/LocalStore.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/complex-conditions/PointInRectangle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/complex-conditions/PointOnRectBorder.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/complex-conditions/TradeCommision.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/complex-conditions/Volleyball.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loops/AllLatinLetters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loops/BiggestNumber.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loops/ElementEqualToSumOfOthers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loops/EqualPairs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loops/EvenAndOddPositions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loops/EvenAndOddSum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loops/LeftAndRightSum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loops/NUmbersFrom1To100.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loops/NumbersTo1000ThatEndOn7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loops/SmallestNumber.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loops/SummingNumbers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loops/SummingVocalLetters.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,108 +28,7 @@
     <favorites_list name="programming-basics-python" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="InvalidNumber.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/complex-conditions/InvalidNumber.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="5" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PointOnRectBorder.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/complex-conditions/PointOnRectBorder.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="17" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FruitStore.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/complex-conditions/FruitStore.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="13" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TradeCommision.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/complex-conditions/TradeCommision.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="5" column="58" lean-forward="false" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DayOfWeek.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/complex-conditions/DayOfWeek.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnimalType.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/complex-conditions/AnimalType.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cinema.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/complex-conditions/Cinema.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Volleyball.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/complex-conditions/Volleyball.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LocalStore.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/complex-conditions/LocalStore.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DotInFigure.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/complex-conditions/DotInFigure.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -146,14 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/first-steps-in-coding/helloPython.py" />
-        <option value="$PROJECT_DIR$/first-steps-in-coding/expression.py" />
-        <option value="$PROJECT_DIR$/first-steps-in-coding/numbersFromOneToTwenty.py" />
-        <option value="$PROJECT_DIR$/first-steps-in-coding/rectArea.py" />
-        <option value="$PROJECT_DIR$/first-steps-in-coding/squareOfStars.py" />
-        <option value="$PROJECT_DIR$/simple-calculations/squareArea.py" />
-        <option value="$PROJECT_DIR$/simple-calculations/InchToCentimeters.py" />
-        <option value="$PROJECT_DIR$/simple-calculations/nameGreeting.py" />
         <option value="$PROJECT_DIR$/simple-calculations/concatinationOfTextAndNumbes.py" />
         <option value="$PROJECT_DIR$/simple-calculations/Trapezoid-Area.py" />
         <option value="$PROJECT_DIR$/simple-calculations/Circle-Perimeter.py" />
@@ -193,6 +82,18 @@
         <option value="$PROJECT_DIR$/complex-conditions/Volleyball.py" />
         <option value="$PROJECT_DIR$/complex-conditions/LocalStore.py" />
         <option value="$PROJECT_DIR$/complex-conditions/DotInFigure.py" />
+        <option value="$PROJECT_DIR$/loops/NUmbersFrom1To100.py" />
+        <option value="$PROJECT_DIR$/loops/NumbersTo1000ThatEndOn7.py" />
+        <option value="$PROJECT_DIR$/loops/AllLatinLetters.py" />
+        <option value="$PROJECT_DIR$/loops/SummingNumbers.py" />
+        <option value="$PROJECT_DIR$/loops/BiggestNumber.py" />
+        <option value="$PROJECT_DIR$/loops/SmallestNumber.py" />
+        <option value="$PROJECT_DIR$/loops/LeftAndRightSum.py" />
+        <option value="$PROJECT_DIR$/loops/EvenAndOddSum.py" />
+        <option value="$PROJECT_DIR$/loops/SummingVocalLetters.py" />
+        <option value="$PROJECT_DIR$/loops/ElementEqualToSumOfOthers.py" />
+        <option value="$PROJECT_DIR$/loops/EvenAndOddPositions.py" />
+        <option value="$PROJECT_DIR$/loops/EqualPairs.py" />
       </list>
     </option>
   </component>
@@ -218,6 +119,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -232,7 +134,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,43 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Volleyball">
-    <configuration default="false" name="NumberFrom100to200" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/simple-conditions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="programming-basics-python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple-conditions/NumberFrom100to200.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Friends" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/complex-conditions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="programming-basics-python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/complex-conditions/Friends.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.AllLatinLetters">
     <configuration default="false" name="FruitStore" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -337,6 +202,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="programming-basics-python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/complex-conditions/Volleyball.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="NUmbersFrom1To100" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="programming-basics-python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops/NUmbersFrom1To100.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AllLatinLetters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="programming-basics-python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops/AllLatinLetters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -407,19 +308,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.NumberFrom100to200" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Friends" />
-      <item index="2" class="java.lang.String" itemvalue="Python.FruitStore" />
-      <item index="3" class="java.lang.String" itemvalue="Python.TradeCommision" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Volleyball" />
+      <item index="0" class="java.lang.String" itemvalue="Python.FruitStore" />
+      <item index="1" class="java.lang.String" itemvalue="Python.TradeCommision" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Volleyball" />
+      <item index="3" class="java.lang.String" itemvalue="Python.NUmbersFrom1To100" />
+      <item index="4" class="java.lang.String" itemvalue="Python.AllLatinLetters" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Volleyball" />
-        <item index="1" class="java.lang.String" itemvalue="Python.TradeCommision" />
-        <item index="2" class="java.lang.String" itemvalue="Python.FruitStore" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Friends" />
-        <item index="4" class="java.lang.String" itemvalue="Python.NumberFrom100to200" />
+        <item index="0" class="java.lang.String" itemvalue="Python.AllLatinLetters" />
+        <item index="1" class="java.lang.String" itemvalue="Python.NUmbersFrom1To100" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Volleyball" />
+        <item index="3" class="java.lang.String" itemvalue="Python.TradeCommision" />
+        <item index="4" class="java.lang.String" itemvalue="Python.FruitStore" />
       </list>
     </recent_temporary>
   </component>
@@ -506,84 +407,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/simple-calculations/Circle-Perimeter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simple-calculations/Area-Of-Rectangle-In-Plane.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simple-calculations/Area-Of-Triangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-steps-in-coding/helloPython" />
-    <entry file="file://$PROJECT_DIR$/first-steps-in-coding/helloPython.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-steps-in-coding/expression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="60" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-steps-in-coding/numbersFromOneToTwenty.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-steps-in-coding/rectArea.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-steps-in-coding/squareOfStars.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="17" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simple-calculations/squareArea.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simple-calculations/nameGreeting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simple-calculations/concatinationOfTextAndNumbes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="105" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/simple-calculations/Trapezoid-Area.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -779,7 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,7 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="3" column="51" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -795,7 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="5" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -803,7 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="17" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -811,7 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="13" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -819,15 +637,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/complex-conditions/AnimalType.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -835,7 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -859,7 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -867,6 +681,99 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loops/NUmbersFrom1To100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loops/NumbersTo1000ThatEndOn7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loops/AllLatinLetters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loops/SummingNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loops/BiggestNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loops/SmallestNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loops/LeftAndRightSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loops/EvenAndOddSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loops/SummingVocalLetters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loops/ElementEqualToSumOfOthers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loops/EvenAndOddPositions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="38" column="44" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loops/EqualPairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding />
         </state>
       </provider>
